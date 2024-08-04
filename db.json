@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": "661572d8-4d2c-4106-a307-72ae11150391",
+      "date": "2024-08-14",
+      "description": "Teste",
+      "category": "casa",
+      "amount": 1000
+    },
+    {
+      "id": "5a947eda-64d6-4df1-845b-180cab64778d",
+      "date": "2024-08-08",
+      "description": "Teste",
+      "category": "locomoção",
+      "amount": 100
+    },
+    {
+      "id": "64e351cb-fe34-4ee8-a863-626b4677c9b9",
+      "date": "2024-08-22",
+      "description": "Uyjh",
+      "category": "lazer",
+      "amount": 1009
+    }
+  ]
+}
